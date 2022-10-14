@@ -15,3 +15,4 @@ https://git-scm.com/downloads
 git config --global user.name "ваше имя"
 git config --global user.email " ваш e-mail"
 ```
+## 4. Инициализация репозитория
